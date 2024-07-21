@@ -1,6 +1,3 @@
-# SI-GuidedProject-603590-1697639379
-
-**THIS IS A GUIDED SMARTINTERNZ PROJECT**
 
 PROJECT TITLE:
 **Online Shoppers Intentions Using ML**
